@@ -1,5 +1,5 @@
 ![github](https://github.com/AbdullahAssi/AbdullahAssi/assets/113567773/34f03ff6-4d57-4705-8a78-7cc3c3900faa)
-
+[![wakatime](https://wakatime.com/badge/user/90a3585d-2e5d-4655-89a0-482c2ae3b619.svg)](https://wakatime.com/@90a3585d-2e5d-4655-89a0-482c2ae3b619)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbdullahAssi225) 
 
