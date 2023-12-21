@@ -1,138 +1,19 @@
-![](Bottom_up.svg)
+![github](https://github.com/AbdullahAssi/AbdullahAssi/assets/113567773/f4d4f667-986b-4372-8c98-0af95072688c)
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/AbdullahAssi/AbdullahAssi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/AbdullahAssi/AbdullahAssi/graphs/contributors"><img src="https://img.shields.io/github/contributors/AbdullahAssi/AbdullahAssi?color=blue"></a>
-    <a href="https://github.com/AbdullahAssi/AbdullahAssi/stargazers"><img src="https://img.shields.io/github/stars/AbdullahAssi/AbdullahAssi.svg?logo=github"></a>
-    <a href="https://github.com/AbdullahAssi/AbdullahAssi/network/members"><img src="https://img.shields.io/github/forks/AbdullahAssi/AbdullahAssi.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahAssi.AbdullahAssi" alt="visitors"/>   
-</p>
+[![wakatime](https://wakatime.com/badge/user/90a3585d-2e5d-4655-89a0-482c2ae3b619.svg)](https://wakatime.com/@90a3585d-2e5d-4655-89a0-482c2ae3b619)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbdullahAssi225) 
 
-<!--   my-header-img -->
-
-![](header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-<!--   my-ticker -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Muhammad+Abdullah;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
-
-<!--   my-kaggle
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
-
-<!--   my-skils -->
-
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-<!--   GitHub stats graph --
-
-### 📈 GitHub Activity Graph:
-
-<!-- [![AbdullahAssi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdullahAssi&theme=github-compact)](https://github.com/AbdullahAssi/github-readme-activity-graph) -->
-
-![AbdullahAssi's github activity graph](https://raw.githubusercontent.com/AbdullahAssi/AbdullahAssi/output/github-contribution-grid-snake.svg)
-| . | . |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![AbdullahAssi's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahAssi&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAssi&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAssi"></img>
-
-<!--   profile-green-animate -->
-
-![](profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-
-![](https://github.com/AbdullahAssi/AbdullahAssi/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline
-<a href="https://skyline.github.com/AbdullahAssi/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AbdullahAssi" width="auto"></img>
-
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/wakatime?username=AbdullahAssi&theme=dark&border_radius=5&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AbdullahAssi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAssi&theme=dark&hide_border=false)<br/>
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahAssi" alt="AbdullahAssi" /></a>
 </p>
 
-   <!--machine-learning-->
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-
-
-<img src="github-metrics.svg" alt="Metrics" width="100%">
-
-<!-- Belarus - My Home-->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              23.5,
-              53.9
-            ],
-            [
-              32.6,
-              52.6
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/AbdullahAssi/count.svg">
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AbdullahAssi/AbdullahAssi&type=Date)](https://star-history.com/#AbdullahAssi/AbdullahAssi&Date)
-
-
-
-[MIT](LICENSE)
+---
+[![](https://visitcount.itsvg.in/api?id=AbdullahAssi&icon=0&color=0)](https://visitcount.itsvg.in)
 
