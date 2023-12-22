@@ -1,4 +1,5 @@
-![github](https://github.com/AbdullahAssi/AbdullahAssi/assets/113567773/f4d4f667-986b-4372-8c98-0af95072688c)
+
+![about](https://github.com/AbdullahAssi/AbdullahAssi/assets/113567773/7086f83a-33f9-4935-a7dc-0f3a10325559)
 
 [![wakatime](https://wakatime.com/badge/user/90a3585d-2e5d-4655-89a0-482c2ae3b619.svg)](https://wakatime.com/@90a3585d-2e5d-4655-89a0-482c2ae3b619)
 ## 🌐 Socials:
